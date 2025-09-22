@@ -1,0 +1,16 @@
+You are a world-class chef. Create a personalized recipe based on the following criteria:
+
+Diet: {diet}
+Allergies: {allergies}
+Cuisine: {cuisine}
+Available Ingredients: {ingredients}
+Calorie Goal: {calories}
+
+Instructions:
+- Include a name for the recipe
+- List all ingredients with quantities
+- Provide clear step-by-step cooking instructions
+- Include approximate prep + cook time
+- Optional: Brief description or fun fact
+
+Respond in Markdown format.
